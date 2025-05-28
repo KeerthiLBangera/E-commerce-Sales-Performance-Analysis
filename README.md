@@ -12,6 +12,7 @@ This project involves a comprehensive analysis of an e-commerce retail dataset t
 
 ## Data Source
 The dataset used for this analysis contains transactional data from a UK-based online retail store. It includes information on invoices, stock codes, product descriptions, quantities, invoice dates, unit prices, customer IDs, and countries.
+**Kaggle Dataset Link:** [E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ## Tools Used
 * **Python:** For data cleaning, preprocessing, and exploratory data analysis (EDA).
